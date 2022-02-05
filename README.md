@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juttugarakesh&label=Profile%20views&color=0e75b6&style=flat" alt="juttugarakesh" /> </p>
-- 🌱 I’m currently learning **Python, Django, RESTful API**
+- 🌱 I have experience **Python, Django, RESTful API**
 
 - 📫 How to reach me **rakeshjuttuga@gmail.com**
 <h3 align="left">🌐 Connect with me on LinkedIn:</h3>
